@@ -5,8 +5,8 @@
 🔐 Interested in Cybersecurity  
 
 ## 🚀 Skills
-- C, C++
-- Basic Data Structures
+- C, C++, JAVA
+- Data Structures
 - Git & GitHub
 
 ## 📂 Projects
