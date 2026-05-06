@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Vikas 👋
 
-<!--
-**VikasPattar2006/VikasPattar2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student  
+💻 C++ Developer | Open Source Beginner  
+🔐 Interested in Cybersecurity  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- C, C++
+- Basic Data Structures
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Task Manager CLI (C++)
+- CampusDrive Project
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- Open Source Contribution
+
+## 🎯 Goal
+To become a skilled developer and contribute to real-world projects.
